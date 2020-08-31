@@ -1,6 +1,6 @@
 # **Skills**
 Bellow is a list
 ## Programming languages
-- Rubby
+- _Rubby_
 - Go
 - Python
